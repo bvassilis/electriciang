@@ -492,6 +492,8 @@ input[type='checkbox'] {
   list-style: none;
   padding: 0;
   background: none;
+  color: white;
+  font-size: 13px;
 }
 .user_menu .mod-menu .nav.menu li a {
   text-decoration: none;
@@ -515,6 +517,10 @@ input[type='checkbox'] {
 }
 #logo a {
   margin-left: -25px;
+  font-size: 28px;
+}
+#logo a:hover {
+  color: #fd4641;
 }
 /*======================= NAVIGATION =======================*/
 .select-menu {
